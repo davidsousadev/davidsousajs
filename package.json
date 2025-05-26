@@ -1,6 +1,6 @@
 {
   "name": "davidsousajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hub de libs Js",
   "main": "index.js",
   "type": "module",
