@@ -1,0 +1,14 @@
+{
+  "name": "davidsousajs",
+  "version": "1.0.0",
+  "description": "Hub de libs Js",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davidsousadev/davidsousajs.git"
+  },
+  "keywords": ["lib", "exemplo"],
+  "author": "@davidsousadev",
+  "license": "MIT"
+}
